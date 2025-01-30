@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @gelien0901
+- 👋 Hi, I’m Jhogelien Bescano Linas
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning codings
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my email address
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on different organizations
+- 📫 Reach me on my email address jhogelienlinas0901@gmail.com
+- 😄 Pronouns: joe-je-lin
 - ⚡ Fun fact: friendly and smiley
 
 <!---
